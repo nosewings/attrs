@@ -1,0 +1,1 @@
+Auto-detection of ``__eq__``/``__ne__`` in ``attr.define()``/``attr.mutable()``/``attr.frozen()`` works now as advertised.
